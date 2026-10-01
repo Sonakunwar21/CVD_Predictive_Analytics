@@ -39,17 +39,7 @@ The project follows an end-to-end data science workflow:
 
 ---
 
-## 📊 Dataset
-
-| Detail | Information |
-|---|---|
-| Source | [Kaggle – Cardiovascular Disease Dataset](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset) |
-| Original Records | **70,000** |
-| Original Features | **13** |
-| Target | `cvd` |
-| Problem Type | **Binary Classification** |
-
-### Main Feature Groups
+### 📊Main Feature Groups
 
 | Group | Variables |
 |---|---|
@@ -57,21 +47,6 @@ The project follows an end-to-end data science workflow:
 | 🩺 **Physiological** | Height, Weight, Systolic BP, Diastolic BP, BMI, Pulse Pressure |
 | 🧪 **Metabolic** | Cholesterol, Glucose |
 | 🚶 **Lifestyle** | Smoking, Alcohol Use, Physical Activity |
----
-## 🔍 Project Workflow
-
-`Data Understanding`
-→ `Data Cleaning`
-→ `Feature Engineering`
-→ `EDA`
-→ `ML Preprocessing`
-→ `Logistic Regression`
-→ `Random Forest`
-→ `Hyperparameter Tuning`
-→ `Model Evaluation`
-→ `Threshold Analysis`
-→ `Feature Importance`
-→ `Medical Interpretation`
 
 ---
 
